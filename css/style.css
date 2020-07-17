@@ -1,0 +1,16 @@
+
+html{
+
+}
+#canvas {
+  display: block;
+  margin: 0 auto;
+}
+.container{
+  display: flex;
+  justify-content: center;
+  padding-top: 100px;
+}
+.container:hover{
+  cursor:pointer;
+}
